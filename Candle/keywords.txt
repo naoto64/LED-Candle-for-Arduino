@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map Candle library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Candle			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+reset				KEYWORD2
+shuffle			KEYWORD2
+pin					KEYWORD2
+brightness	KEYWORD2
+rate				KEYWORD2
+ratio				KEYWORD2
+refresh			KEYWORD2
